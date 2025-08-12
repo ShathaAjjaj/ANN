@@ -16,6 +16,7 @@ The dataset consists of rice grain images organized into subfolders, each repres
 4. Jasmine
 5. Karacadag
 
+Source: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 ---
 
 - Each folder contains images of rice grains belonging to that class.
